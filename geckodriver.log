@@ -1,0 +1,24 @@
+1613170463017	geckodriver	INFO	Listening on 127.0.0.1:53441
+1613170466112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\andye\\AppData\\Local\\Temp\\rust_mozprofilePTMCnG"
+1613170534948	geckodriver	INFO	Listening on 127.0.0.1:53515
+1613170538025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\andye\\AppData\\Local\\Temp\\rust_mozprofile1c6bez"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613170541649	Marionette	INFO	Listening on port 53523
+1613170541747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613170541774	Marionette	ERROR	[15] No reply from Marionette:Register
+1613170555347	Marionette	INFO	Stopped listening on port 53523
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613171496568	geckodriver	INFO	Listening on 127.0.0.1:53807
+1613171499643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\andye\\AppData\\Local\\Temp\\rust_mozprofile3epz4Z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613171503612	Marionette	INFO	Listening on port 53816
+1613171503865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613171503890	Marionette	ERROR	[15] No reply from Marionette:Register
+1613171940525	Marionette	INFO	Stopped listening on port 53816
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
